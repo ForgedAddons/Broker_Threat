@@ -1,0 +1,11 @@
+﻿## Interface: 40000
+## Title: Broker: Threat
+## Notes: Threat with warnings
+## Author: Drauer
+## Version: 40000.1
+## X-Category: Combat
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Broker_Threat.lua
